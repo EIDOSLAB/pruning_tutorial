@@ -1,5 +1,4 @@
-# Pruning tutorial
-##International conference on Image Analysis and Processing
+# Pruning tutorial at the International conference on Image Analysis and Processing (ICIAP 2021)
 
 Work in progress. The agenda for the tutorial session will be disclosed shortly.
 
